@@ -1,0 +1,14 @@
+{
+  "name": "fuit-bot-wh",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp pour Kelly YT",
+  "main": "fuit.js",
+  "scripts": {
+    "start": "node fuit.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
